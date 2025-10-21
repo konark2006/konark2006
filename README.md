@@ -1,7 +1,8 @@
-# Hi, I'm Konark 👋
+<p align="center">
+  Hi, I'm Konark 👋
+</p>
 
-**Computer Science @ Constructor University Bremen (2024–2027)**  
-Passionate about building useful software, learning in public, and collaborating on real‑world projects.
+
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/64caf9016869591bbcf79720ad78d0645d4ae11549961c8f47f9cb595838b2e3/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032312f3732302f3932302f6f726967696e616c2f706978656c2d6a6566662d6d6172696f2e6769663f31353732373039343333" alt="Squidward dab" width="1024">
@@ -10,6 +11,9 @@ Passionate about building useful software, learning in public, and collaborating
 ---
 
 ## 🎓 Currently
+**Computer Science @ Constructor University Bremen (2024–2027)**  
+Passionate about building useful software, learning in public, and collaborating on real‑world projects.
+
 - 2nd‑year coursework: Probabilities & Random Processes, Functional Programming, Operating Systems, Databases, Logic
 - Teaching Assistant — *Scientific Programming in Python* (Sept 2025–present)
 - Improving my backend & data tooling with Python, Django, SQL, and REST APIs
