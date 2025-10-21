@@ -5,10 +5,10 @@ Passionate about building useful software, learning in public, and collaborating
 
 ---
 
-## 🌱 Currently
-- 🎓 2nd‑year coursework: Probabilities & Random Processes, Functional Programming, Operating Systems, Databases, Logic
-- 🧑‍🏫 Teaching Assistant — *Scientific Programming in Python* (Sept 2025–present)
-- 🔧 Improving my backend & data tooling with Python, Django, SQL, and REST APIs
+## 🎓 Currently
+- 2nd‑year coursework: Probabilities & Random Processes, Functional Programming, Operating Systems, Databases, Logic
+- Teaching Assistant — *Scientific Programming in Python* (Sept 2025–present)
+- Improving my backend & data tooling with Python, Django, SQL, and REST APIs
 
 ## 🛠️ Tech Stack
 **Languages:** Python · C/C++ · SQL · HTML · CSS · Kotlin (basics)  
@@ -16,6 +16,13 @@ Passionate about building useful software, learning in public, and collaborating
 **Databases:** PostgreSQL · MySQL  
 **Tools:** Git · GitHub · VS Code · PyCharm · REST APIs  
 **Libraries:** Pandas · NumPy · Matplotlib
+
+---
+
+## 🎓 Education
+**Constructor University Bremen** — *B.Sc. in Computer Science (2024–2027)*  
+**Selected coursework (year 1):** Data Structures & Algorithms, Programming in C/C++, Scientific Programming (Python), MFCS, JVM Development, Matrix Algebra, Advanced Calculus I/II, Digital Systems & Computer Architecture  
+**Selected coursework (year 2):** Probabilities & Random Processes, Functional Programming, Operating Systems, Databases, Logic
 
 ---
 
@@ -43,14 +50,6 @@ Flask · Google Gemini Vision API · Jinja2 · PyPDF2 · OCR
 - Feedback‑driven exam analysis to highlight errors on PDFs and generate student/class reports  
 - Modular routes/services/templates; OCR + extraction pipeline; visual PDF highlighting
 
-> ℹ️ Pin these repositories on your GitHub profile so they show up at the top: *Settings → Repositories → “Pin”*.
-
----
-
-## 🎓 Education
-**Constructor University Bremen** — *B.Sc. in Computer Science (2024–2027)*  
-**Selected coursework (year 1):** Data Structures & Algorithms, Programming in C/C++, Scientific Programming (Python), MFCS, JVM Development, Matrix Algebra, Advanced Calculus I/II, Digital Systems & Computer Architecture  
-**Selected coursework (year 2):** Probabilities & Random Processes, Functional Programming, Operating Systems, Databases, Logic
 
 ---
 
@@ -60,9 +59,3 @@ Flask · Google Gemini Vision API · Jinja2 · PyPDF2 · OCR
 - GitHub: **https://github.com/konark2006**
 
 ---
-
-## 📊 GitHub at a glance
-![Konark's GitHub stats](https://github-readme-stats.vercel.app/api?username=konark2006&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konark2006&layout=compact)
-
-> Tip: Add this file to a repository named **`konark2006/konark2006`** (your username twice). GitHub will render it on your profile automatically.
