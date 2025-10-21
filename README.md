@@ -59,3 +59,5 @@ Flask · Google Gemini Vision API · Jinja2 · PyPDF2 · OCR
 - GitHub: **https://github.com/konark2006**
 
 ---
+
+![Demo](https://media.giphy.com/media/your-gif-id/giphy.gif)
