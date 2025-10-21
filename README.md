@@ -60,4 +60,6 @@ Flask · Google Gemini Vision API · Jinja2 · PyPDF2 · OCR
 
 ---
 
-![Demo][(https://media.giphy.com/media/your-gif-id/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ffire-dab-gifs&psig=AOvVaw0uxV5CykQ5tEKSlLweg9TJ&ust=1761104236386000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDIgteutJADFQAAAAAdAAAAABAL))
+<p align="center">
+  <img src="https://media1.tenor.com/m/Up-GixrX2dwAAAAC/squidward-dab.gif" alt="Squidward dab" width="320">
+</p>
