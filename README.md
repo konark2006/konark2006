@@ -72,3 +72,4 @@ Python · BERTopic · Sentence Transformers · UMAP · HDBSCAN
 - Email: **konarkmishra2006@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/konark2006/**
 - GitHub: **https://github.com/konark2006**
+- Telegram: **@konark2006**
